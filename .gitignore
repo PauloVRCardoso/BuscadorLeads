@@ -1,0 +1,22 @@
+# Credenciais
+.env
+.env.*
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Arquivos gerados
+*.xlsx
+
+# Configurações locais
+.vscode/
